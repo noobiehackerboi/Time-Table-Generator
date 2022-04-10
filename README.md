@@ -9,4 +9,4 @@ The easy steps to follow are:
 	1. Clone the repository.
 	2. Run on your browser/localhost.
 
-The timetable-generator is also hosted at
+The timetable-generator is also hosted at https://noobiehackerboi.github.io/Time-Table-Generator/
